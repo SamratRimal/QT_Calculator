@@ -1,0 +1,2 @@
+# QtCalculator_edit
+QtApplication
